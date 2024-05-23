@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Khachapuri",
+    "description": "Traditional Georgian cheese-filled bread.",
+    "price": 8.99,
+    "imageUrl": "images/menu/khachapuri.webp"
+  },
+  {
+    "name": "Khinkali",
+    "description": "Georgian dumplings filled with spiced meat.",
+    "price": 10.99,
+    "imageUrl": "images/menu/khinkali.webp"
+  },
+  {
+    "name": "Badrijani",
+    "description": "Eggplant rolls stuffed with walnut paste.",
+    "price": 7.49,
+    "imageUrl": "images/menu/badrijani.webp"
+  },
+  {
+    "name": "Lobio",
+    "description": "A traditional Georgian bean stew.",
+    "price": 6.99,
+    "imageUrl": "images/menu/lobio.webp"
+  },
+  {
+    "name": "Mtsvadi",
+    "description": "Georgian shish kebab made with marinated pork.",
+    "price": 12.99,
+    "imageUrl": "images/menu/mtsvadi.webp"
+  },
+  {
+    "name": "Satsivi",
+    "description": "Chicken in walnut sauce, a festive Georgian dish.",
+    "price": 11.99,
+    "imageUrl": "images/menu/satsivi.webp"
+  },
+  {
+    "name": "Ajapsandali",
+    "description": "A vegetable stew made with eggplants, tomatoes, and peppers.",
+    "price": 8.49,
+    "imageUrl": "images/menu/ajapsandali.webp"
+  }
+]
