@@ -1,3 +1,4 @@
+import "./style.css";
 const navbar = document.querySelector(".nav");
 
 navbar.addEventListener("click", function (e) {
