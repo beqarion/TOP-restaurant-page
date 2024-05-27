@@ -344,16 +344,22 @@ Menu
   gap: 0.75rem;
 }
 .dish {
+  /* aspect-ratio: 1/1.62; */
+  height: 450px;
   background: white;
   padding: 0.5rem;
   border-radius: 5px;
   box-shadow: 1px 1px 3px hsl(36 77% 38% / 0.7);
 
   display: grid;
+  grid-template-rows: auto auto 1fr auto;
   gap: 1rem;
 }
 .dish img {
   border-radius: 3px;
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
 }
 .dish-name {
   font-size: 1.25rem;
